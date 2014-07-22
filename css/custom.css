@@ -1,0 +1,23 @@
+/* FONTS */
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+/* STYLES */
+
+body {
+	padding-bottom: 40px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+.img-circle {
+	border: 5px solid #116B9E;
+	pointer-events: none;
+}
+
+.blue-text {
+	color: #178acc !important;
+}
+
+img {
+	pointer-events: none;
+}
